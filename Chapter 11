@@ -1,0 +1,17 @@
+{
+  "title": "<Bishoujo Senshi 04R1>",
+  "description": "<From the author of MachiMaho and Black Gyaru School comes Souryuu's newest work.0 = the latin letter "O", 4 = the japanese kanji "shi", R = the latin letter "r", 1 = the latin letter "i". So "04R1" becomes "Oshiri", japanese for that sweet ass! >",
+  "artist": "<Souryuu>",
+  "author": "<Souryuu>",
+  "cover": "<https://imgur.com/ueEdDGp>",
+  "chapters": {
+    "<chapter 11>": {
+      "title": "<Mission 11>",
+      "volume": "<1>",
+      "groups": {
+        "<Laughing Dragon Scans>": "/proxy/api/imgur/chapter/<dqc5Hrv>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
